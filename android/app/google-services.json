@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "140503097570-um0d4btai5ceahef3b1mobogcu15037q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapsandfirebaseproject",
+            "certificate_hash": "1dcab0ab8203dabdd7e8ff23abb2182010fbb881"
+          }
+        },
+        {
           "client_id": "140503097570-hfctf9v5oupqt9jitjfstkfde42e5ug7.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140503097570-hfctf9v5oupqt9jitjfstkfde42e5ug7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140503097570-vbkq5pdjkbpahu60t1ri1lcv8sd8b3rm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mapsandfirebaseproject"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
